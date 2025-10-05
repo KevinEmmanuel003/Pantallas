@@ -6,7 +6,7 @@ panos project
 CLONAR REPOSITORIO A LAPTOP: :
 
     Ir a la direccion en la que quieres que se encuentre el repositorio.
-    Clocar en el cmd: git clone https://github.com/jose-udeg/Apis_publicas.git
+    Clocar en el cmd: git clone https://github.com/KevinEmmanuel003/Pantallas.git
 
 ANTES DE TIRAR CODIGO, PONER LO SIGUIENTE:
 
