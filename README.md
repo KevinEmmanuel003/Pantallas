@@ -3,6 +3,8 @@ Pantallas
 
 panos project
 
+Recuerdese que para trabajar con el cmd, para cambios y tal. Se debe abrir la carpeta de github, el cmd y ahora sí ejecutas los codigos.
+
 CLONAR REPOSITORIO A LAPTOP: :
 
     Ir a la direccion en la que quieres que se encuentre el repositorio.
