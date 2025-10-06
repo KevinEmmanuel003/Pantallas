@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StencilCollection version="1.0">
+  <Name>MiStencil</Name>
+  <Description>Mis imágenes personalizadas</Description>
+  <Stencils>
+    <Stencil>
+      <Name>Maiz</Name>
+      <File>image-removebg-preview (2).svg</File>
+    </Stencil>
+  </Stencils>
+</StencilCollection>
